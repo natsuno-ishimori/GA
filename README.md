@@ -37,25 +37,25 @@
  　　・TVインターホン   
  
 # 必要なライブラリ
-(individual.cpp)  
-＊iostream  
-＊string  
-＊fstream  
-(individual.h)  
-＊time.h  
-＊stdlib.h  
-＊limits.h  
-＊float.h  
-＊math.h  
-＊stdio.h  
-(population.cpp)  
-＊iostream  
-＊fstream  
-＊string.h  
-＊vector  
+　(individual.cpp)  
+　　＊iostream  
+　　＊string  
+　　＊fstream  
+　(individual.h)  
+　　＊time.h  
+　　＊stdlib.h  
+　　＊limits.h  
+　　＊float.h  
+　　＊math.h  
+　　＊stdio.h  
+　(population.cpp)  
+　　＊iostream  
+　　＊fstream  
+　　＊string.h  
+　　＊vector  
  
 # 実行方法
-２つのソースファイルと２つのヘッダーファイルを実行してください。
+　２つのソースファイルと２つのヘッダーファイルを実行してください。
  
 # 作成者
 　＊Natsuno Ishimori  
