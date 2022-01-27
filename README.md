@@ -58,7 +58,7 @@
 ２つのソースファイルと２つのヘッダーファイルを実行してください。
  
 # 作成者
-　＊Natsuno Ishimori
-　＊静岡県立大学経営情報学部
-　＊warawarasummer@icloud.com
+　＊Natsuno Ishimori  
+　＊静岡県立大学経営情報学部  
+　＊warawarasummer@icloud.com  
  
