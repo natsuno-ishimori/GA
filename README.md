@@ -1,4 +1,4 @@
-# GA for eclipse
+# GA - eclipse -
 　GA(Genetic Algorithm)は遺伝的アルゴリズムといい、生物界の進化の仕組みを模倣した解探索手法です。本コードはeclipseのC++でGAを実行するためのプログラムです。
 
 # データセット
