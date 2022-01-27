@@ -28,7 +28,7 @@
 　　＊vector  
  
 # 実行方法
-　２つのソースファイルと２つのヘッダーファイルを実行してください。
+　２つのソースファイル(individual.cpp,population.cpp)と２つのヘッダーファイル(individual.h,population.h)を実行してください。
  
 # 作成者
 　＊Natsuno Ishimori  
